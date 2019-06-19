@@ -30,9 +30,9 @@ def handle(msg):
             bot.sendMessage(chat_id, "Звук на телике")
 
 
-bot = telepot.Bot('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')#Вместо иксов пишем ваш токен
-cmd0 = 'Powercfg -setactive 6a935962-1964-4f2a-a937-95cd9b8ca616'
-cmd1 = 'Powercfg -setactive 021d63d0-34a0-4824-8f5a-b83156cba872'
+bot = telepot.Bot('856784301:AAEaH0fKdlw3hXx4ioMaMP3-uQ8o40KfzbA')#Вместо иксов пишем ваш токен
+cmd0 = 'Powercfg -setactive 54d30300-0b17-44ab-af1d-88d83b5cd0f2'
+cmd1 = 'Powercfg -setactive 94c20331-c628-4ac0-9c31-6d8369cae53a'
 shut = 'shutdown -s'
 soundpc = 'C:\SSD_v3.exe\SSD.exe 7777hidden'
 soundtv = 'C:\SSD_v3.exe\SSD.exe 7771hidden'
